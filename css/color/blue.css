@@ -1,0 +1,15 @@
+a.navbar-brand,.custom-navbar .nav li.active > a,.back_top i,.section-title strong,#work h3,#work p a,.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus,.tab-content a,#team h3,.filter-wrapper li .selected, .filter-wrapper li a:focus, .filter-wrapper li a:hover,#team .social-icon li a:hover,.social-icon li a:hover,footer p a {
+    color: #37b8df;
+}
+#color-switcher .bottom a.settings {
+    background: none repeat scroll 0 0 #37b8df;
+}
+#home .btn-danger,#home .btn:hover,#pricing .medium-icon:hover,#contact input[type="submit"],.container-dark,.custom-navbar .navbar-toggle .icon-bar {
+    background: #37b8df;
+}
+#pricing .plan-one .btn,#pricing .plan-two .btn,#pricing .plan-three .btn {
+    background-color: #37b8df;
+}
+#contact input[type="submit"]{
+    border: 3px solid #37b8df;
+}
