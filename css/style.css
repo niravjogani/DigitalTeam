@@ -585,6 +585,10 @@ ul.pattern li {
   padding-top: 14px;
   padding-bottom: 14px;
 }
+.contact-info p a {
+  color: #fff;
+  margin: 0 5px;
+}
 #contact form {
   padding-top: 60px;
 }
