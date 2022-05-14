@@ -41,6 +41,10 @@ hr {
   width: 180px;
   border-color: #CCC;
 }
+.contact-info p a {
+  color: #fff;
+  margin: 0 5px;
+}
 .section-title strong {
 	color: #00C6D7;
   	font-size: 56px;
@@ -584,10 +588,6 @@ ul.pattern li {
 #contact .contact-info div {
   padding-top: 14px;
   padding-bottom: 14px;
-}
-.contact-info p a {
-  color: #fff;
-  margin: 0 5px;
 }
 #contact form {
   padding-top: 60px;
